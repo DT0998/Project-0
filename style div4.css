@@ -1,0 +1,25 @@
+div.a{
+    background-color:blue;
+    width: 680px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div.b{
+ background-color: yellow;
+ width: 450px;
+ height: 300px;
+ margin-right: auto;
+ 
+ 
+}
+h1{
+ font-size: 30px;
+ margin-left: auto;
+ margin-right: auto;
+}
+h2{
+ font-size: 30px;
+ margin-left: auto;
+ margin-right: auto;
+}
